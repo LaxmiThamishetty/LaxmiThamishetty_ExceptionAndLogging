@@ -1,0 +1,12 @@
+Feb 23, 2020 9:19:30 PM com.epam.loggingandlog4j.client main
+INFO: Enter 1 for simple and compound interest 2 for house construction cost
+Feb 23, 2020 9:19:33 PM com.epam.loggingandlog4j.client main
+INFO: Enter amount
+Feb 23, 2020 9:19:35 PM com.epam.loggingandlog4j.client main
+INFO: Enter the No.of years:
+Feb 23, 2020 9:19:36 PM com.epam.loggingandlog4j.client main
+INFO: Enter the Rate of  interest
+Feb 23, 2020 9:19:36 PM com.epam.loggingandlog4j.client main
+INFO: Simple interest: 1800.0
+Feb 23, 2020 9:19:36 PM com.epam.loggingandlog4j.client main
+INFO: Compound interest: 1854.5400000000009
